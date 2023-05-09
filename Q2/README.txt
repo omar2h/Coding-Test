@@ -12,7 +12,7 @@ How to compile and run
 Differences
 - Recursive Approach f1
   - Time Complexity: O(2^n)
-  - Space Complexity: O(2^n)
+  - Space Complexity: O(n)
   - Advantages:
     - Simple
   - Disadvantages:
